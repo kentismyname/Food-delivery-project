@@ -1,0 +1,16 @@
+{
+  "name": "fast-food-web",
+  "version": "1.0.0",
+  "description": "![Thumbnail](https://lh3.googleusercontent.com/drive-viewer/AITFw-w-rDgcV-qSixaCtx8VMatPgdtOmSnl0zqTrcSNbVlytQn6hzkrIZc4BHp7lUg18Dkbth32o4xhEMNQKmbjYbhbrBd4Ww=s1600)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
